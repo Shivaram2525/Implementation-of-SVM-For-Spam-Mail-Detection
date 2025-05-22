@@ -20,8 +20,8 @@ To write a program to implement the SVM For Spam Mail Detection.
 ```
 /*
 Program to implement the SVM For Spam Mail Detection..
-Developed by: 
-RegisterNumber:
+Developed by    : Shivaram M.
+Register Number : 212223040195
     import pandas as pd
     data=pd.read_csv("/content/spam.csv",encoding="mac_roman")
     data.info()
